@@ -14,9 +14,6 @@ This hidden access method ensures regular visitors cannot accidentally find the 
 
 ---
 
-## 🎫 Login Credentials
-
-**Password:** `Daniel@2026`
 
 ⚠️ **IMPORTANT:** Change this password in production for security
 
